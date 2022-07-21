@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>png261</title>
-    <link>/</link>
+    <link>https://png261.github.io/</link>
     <description>Recent content on png261</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jul 2022 14:11:43 +0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jul 2022 14:11:43 +0700</lastBuildDate><atom:link href="https://png261.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Partition the disks Arch Linux</title>
-      <link>/posts/partition-the-disks-arch/</link>
+      <link>https://png261.github.io/posts/partition-the-disks-arch/</link>
       <pubDate>Thu, 21 Jul 2022 14:11:43 +0700</pubDate>
       
-      <guid>/posts/partition-the-disks-arch/</guid>
+      <guid>https://png261.github.io/posts/partition-the-disks-arch/</guid>
       <description>[png261] lsblk NAME MAJ:MIN RM SIZE RO TYPE MOUNTPOINTS sdb 8:16 0 111.8G 0 disk ├─sdb1 8:17 0 300M 0 part /boot ├─sdb2 8:18 0 2G 0 part [SWAP] ├─sdb3 8:19 0 30G 0 part / └─sdb4 8:20 0 79.</description>
     </item>
     
     <item>
       <title></title>
-      <link>/archives/</link>
+      <link>https://png261.github.io/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/archives/</guid>
+      <guid>https://png261.github.io/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>https://png261.github.io/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://png261.github.io/about/</guid>
       <description>Hi there i&amp;rsquo;m phuongnguyen</description>
     </item>
     

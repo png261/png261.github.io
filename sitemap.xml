@@ -2,25 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://png261.github.io/</loc>
     <lastmod>2022-07-21T14:11:43+07:00</lastmod>
   </url><url>
-    <loc>/tags/archlinux/</loc>
+    <loc>https://png261.github.io/tags/archlinux/</loc>
     <lastmod>2022-07-21T14:11:43+07:00</lastmod>
   </url><url>
-    <loc>/posts/partition-the-disks-arch/</loc>
+    <loc>https://png261.github.io/posts/partition-the-disks-arch/</loc>
     <lastmod>2022-07-21T14:11:43+07:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://png261.github.io/posts/</loc>
     <lastmod>2022-07-21T14:11:43+07:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://png261.github.io/tags/</loc>
     <lastmod>2022-07-21T14:11:43+07:00</lastmod>
   </url><url>
-    <loc>/archives/</loc>
+    <loc>https://png261.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://png261.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
